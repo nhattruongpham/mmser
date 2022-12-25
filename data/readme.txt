@@ -1,0 +1,1 @@
+# Download the IEMOCAP dataset (IEMOCAP_full_release) and put it into the data folder.
