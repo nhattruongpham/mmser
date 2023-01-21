@@ -1,11 +1,9 @@
 # mmser
 ## SERVER: Multi-modal Speech Emotion Recognition using Transformer-based and Vision-based Embeddings
+This code is to reproduce the multi-modal speech emotion recognition model that has been used in the paper entitled "SERVER: Multi-modal Speech Emotion Recognition using Transformer-based and Vision-based Embeddings".
 
 ### Abstract
-```
 This paper proposes a multi-modal approach for speech emotion recognition (SER) using both text and audio inputs. The audio embedding is extracted by using a vision-based architecture, namely VGGish, while the text embedding is extracted by using a transformer-based architecture, namely BERT. Then, these embeddings are fused using concatenation to recognize emotional states. To evaluate the effectiveness of the proposed method, the benchmark dataset, namely IEMOCAP, is employed in this study. Experimental results indicate that the proposed method is very competitive and better than most of the latest and state-of-the-art methods using multi-modal analysis for SER. The proposed method achieves 63.10% unweighted accuracy (UA) and 63.00% weighted accuracy (WA) on the IEMOCAP dataset. In the future, an extension of multi-task learning and multi-lingual approaches will be investigated to improve the performance and robustness of multi-modal SER. For reproducibility purposes, our code is publicly available.
-```
-This code is to reproduce the multi-modal speech emotion recognition model that has been used in the paper entitled "SERVER: Multi-modal Speech Emotion Recognition using Transformer-based and Vision-based Embeddings".
 
 ### Dependencies
 - Python 3.7
