@@ -20,18 +20,23 @@ Run ```PreState.ipynb``` to train, predict, analyze, and visualize all experimen
 If you use this code or part of it, please cite the following papers:
 ```
 @inproceedings{DBLP:conf/iciit/PhamDPN23,
-  author    = {Nhat Truong Pham and Duc Ngoc Minh Dang and Bich Ngoc Hong Pham and Sy Dzung Nguyen},
-  title     = {SERVER: Multi-modal Speech Emotion Recognition using Transformer-based and Vision-based Embeddings},
-  booktitle = {{ICIIT} 2023: 8th International Conference on Intelligent Information
-               Technology, Da Nang, Vietnam, February 24 - 26, 2023},
-  pages     = {},
-  publisher = {{ACM}},
-  year      = {2023},
-  url       = {},
-  doi       = {},
-  timestamp = {},
-  biburl    = {},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  author       = {Nhat Truong Pham and
+                  Duc Ngoc Minh Dang and
+                  Bich Ngoc Hong Pham and
+                  Sy Dzung Nguyen},
+  title        = {{SERVER:} Multi-modal Speech Emotion Recognition using Transformer-based
+                  and Vision-based Embeddings},
+  booktitle    = {Proceedings of the 2023 8th International Conference on Intelligent
+                  Information Technology, {ICIIT} 2023, Da Nang, Vietnam, February 24-26,
+                  2023},
+  pages        = {234--238},
+  publisher    = {{ACM}},
+  year         = {2023},
+  url          = {https://doi.org/10.1145/3591569.3591610},
+  doi          = {10.1145/3591569.3591610},
+  timestamp    = {Fri, 21 Jul 2023 22:25:37 +0200},
+  biburl       = {https://dblp.org/rec/conf/iciit/PhamDPN23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
